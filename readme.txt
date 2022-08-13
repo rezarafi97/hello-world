@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 This is test a for github.
 
 This is another test for github.
+
+This is a test for pushing github branches.
